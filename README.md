@@ -2,11 +2,15 @@
 
 ## chrome
 
+https://www.google.com/chrome/browser/desktop/index.html
 
+## sublime
+
+http://www.sublimetext.com/2
 
 ## python
 
-
+https://www.python.org/downloads/windows/
 
 ## pip
 
