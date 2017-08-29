@@ -16,6 +16,10 @@ https://www.python.org/downloads/windows/
 
 python get-pip.py
 
+## git-bash
+
+https://git-for-windows.github.io
+
 ## cygwin
 
 https://www.cygwin.com/
